@@ -4,55 +4,46 @@ Von der Fläche zur Form
 
 Sommersemester 2022
 
-____
-
-# Vorbereitung
-
-## Software
-
-Als Vorbereitung für unseren Workshop installiert euch bitte das CAD-Programm Autodesk Fusion 360. Fusion ist in der Education-Version kostenlos und läuft sowohl auf Windows als auch auf MAC. 
-
-## Vorwissen 
-Ihr solltet für den Workshop ein Grundverständnis von Fusion360 haben. Falls du die Software noch nie genutzt hast arbeite bitte dieses Tutorial durch: 
-XXXXX Link Tutorial 
-
-Wir werden in Fusion die Funktionen der Blechbearbeitung nutzen. Bitte arbeite dazu dieses Tutorial durch, in dem ich die Blechbearbeitung kurz erkläre und die Grundfunktionen zeige. 
-
-XXXXXX Link Tutorial 
-
 ______
 
 # Zeitplan 
 Dienstag 09:00 – 16:15
 
-09:00 – 10:00  Intro Präsentation 
+09:00 – 10:30  Intro Präsentation 
   - Begrüßung und Vorstellung 
   - 2D zu 3D generell 
     - Schnelldurchlauf Konstruktionsmethoden 
   - 2D zu 3D in der "Industrie"
-  - 2D zu 3D als effiziente digitale Herstellungsmethode
-    - Beispiel: The Lasery
 
-10:15 – 11:30 Präsentation 2: CAD Programme 
+10:30 – 11:00: Mini Präsentation Ergebnisse der letzten Woche 
+
+11:00 – 11:30: 
+  - 2D zu 3D als effiziente digitale Herstellungsmethode
+    - Vergleich zu anderen Herstellungsmethoden 
+    - Beispiel: The Lasery
+    - 247 Taylorsteel 
+
+12:00 – 13:00: Mittagspause 
+
+13:00 – 14:00
+Präsentation und Domos : CAD Programme 
   - Konstruktionsmethoden Wiederholung
-  - CAD-Programme für bestimmte Konstruktionsmethoden
+  - CAD-Programme für bestimmte Konstruktionsmethoden:
     - Sheetmetal (Fusion)
     - Slicer for Fusion
     - Rhino Abwicklung 
-    - Grasshopper Folding 
+    - Grasshopper Plugins 
 
-11:30 – 12:00 Vorbereitung auf die Übung:
-  - Besprechung: Modelle von letzter Woche
-  - Wie würde ich dran gehen? 
-  - Demo an einem Beispiel
+14:00 – 15:00 :
+  - Fokus auf digitale Methoden zum Entwurf 
+  - konkrete Demos wie ich an die Mini-Projekte aus der Letzten Woche ran gehen würde
+  - Zeit für Diskussion und Fragen
+  - Kurze Nachbesprechung
 
-12:00 – 13:00 Mittagspause 
-13:00 – 16:00 Übung unter Aufsicht: Modell der letzten Woche in Fusion übertragen. –
 Falls Zeit ist: Beispiel Parametrik bei Blechbearbeitung in Fusion 
 16:00 – 16:15 Nachbesprechung, Diskussion
 
-Mittwoch 
-09:00 – 12:00 
+Mittwoch 09:00 – 12:00 
 
 09:00 – 10:30 Präsentation: Material und Prozesseigenschaften in Schnittmusterkonstruktion 
   - Übersicht / Wiederholung Herstellungsprozesse 
@@ -62,16 +53,22 @@ Mittwoch
 10:45 – 11:15 Nesting 
   - Opennest 
   - Fusion Nesting 
-  - Other Nesting Software 
+  - Andere Nesting Software 
   
 11:15 – 11:45 Daten Vorbereiten zum Lasern und Schneiden
-  - Demonstration von Fusion zum Laser
+  - Demonstration: von Fusion zum Laser
     - Export aus Fusion 
     - Import in Illustrator
   - Biegetabellen 
   - (Zeichnungen ) 
 
 11:45 – 12:05 Fragen, Nachbesprechung Feedback, Kritik
+
+
+___
+
+Link zum Miro-Board: https://miro.com/app/board/o9J_lY664nQ=/?share_link_id=263513794918 
+
 
 # Workshopinhalte 
 
@@ -102,9 +99,9 @@ Rhino+Grasshopper:
   - Mathematical Origami 
   - Kangaroo Origami
   - Kangaroo Inflatables
-  - Metahopper Inflatables
-  - Plugin Slot construction 
+  - Flexhopper Inflatables
   - Plugin for Triangular structures
+  - Bowerbird Plugin
   - 
 Blender:
   - Blender Cloth Simulation 
@@ -114,7 +111,8 @@ Marvellous Designer Textile Schnittmuster
 
 #### Biegen und Abkanten
 Abkanten und Biegen 
-Origami
+Falten / Origami
+Unterscheidung: Reversibel und Umgeformt
 
 #### Zusammenstecken
 Rechtwinklige Schnitte 
