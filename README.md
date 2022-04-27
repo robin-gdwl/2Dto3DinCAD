@@ -6,6 +6,8 @@ Sommersemester 2022
 
 ______
 
+Link zum Miro-Board: [https://miro.com/app/board/o9J_lY664nQ=/?share_link_id=263513794918](https://miro.com/app/board/o9J_lY664nQ=/?share_link_id=263513794918)
+
 # Zeitplan 
 Dienstag 09:00 – 16:15
 
@@ -67,7 +69,6 @@ Mittwoch 09:00 – 12:00
 
 ___
 
-Link zum Miro-Board: https://miro.com/app/board/o9J_lY664nQ=/?share_link_id=263513794918 
 
 
 # Workshopinhalte 
